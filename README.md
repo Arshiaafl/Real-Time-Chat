@@ -1,4 +1,3 @@
-Here's a README file template for your GitHub repository:
 
 ---
 
@@ -76,4 +75,3 @@ Special thanks to the creators of the tools and libraries used in this project, 
 
 ---
 
-You can modify the `README` as needed, and replace the placeholder URLs with the actual links to your repository and any other relevant resources.
