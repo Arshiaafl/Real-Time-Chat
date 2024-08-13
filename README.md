@@ -38,7 +38,7 @@ pip install speechrecognition pyttsx3 ollama
 
 ```bash
 git clone https://github.com/Arshiaafl/Real-Time-Chat.git
-cd your-repository-name
+cd Real-Time-Cha
 ```
 
 2. Run the main script:
@@ -53,7 +53,7 @@ python app.py
 
 ## 📂 Project Structure
 
-- `main.py`: The main script to run the chatbot.
+- `app.py`: The main script to run the chatbot.
 - `requirements.txt`: A list of dependencies required to run the project.
 
 ## 🤝 Contributing
