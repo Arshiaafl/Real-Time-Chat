@@ -37,14 +37,14 @@ pip install speechrecognition pyttsx3 ollama
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/Arshiaafl/Real-Time-Chat.git
 cd your-repository-name
 ```
 
 2. Run the main script:
 
 ```bash
-python main.py
+python app.py
 ```
 
 3. Start interacting with the chatbot:
